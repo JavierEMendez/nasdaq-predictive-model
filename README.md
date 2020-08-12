@@ -37,6 +37,8 @@ After the data was found, we cleaned it in such a fashion so that we were workin
 
 From here on out, we were able to create the model, which suprisingly enough, often-times can be the easy part (compared to data-aggregation). This was all done on AWS Sagemaker, a service provided by Amazon that allows you to work on Jupyter Notebooks on their servers. This provides access to their massive amounts of processing power which is useful for working on a model with this much data, as well as allows us to more easily collaborate on the code. Here is an example of what some of the code looks like: 
 
+![Code Example](/Images/code-example.gif)
+
 ## Results
 
 ## How to interpret the data
