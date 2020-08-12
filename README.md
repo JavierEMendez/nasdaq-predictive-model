@@ -1,4 +1,4 @@
-# nasdaq-predictive-model
+# Nasdaq Predictive Model
 
 ![NASDAQ Image](/Images/Nasdaq-copy.jpg)
 
