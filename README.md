@@ -26,7 +26,7 @@ This predictive random forrest model will focus on NASDAQ companies, and will us
 
 As all models do (as we have found out), it all begins with finding quality data that can be used to test and train it. We were able to find historical data for every NASDAQ ticker (for a small fee!). We have uploaded a year of this data to this repository so that it can be used by anyone wishing to test the model for themselves - the code is already written to intepret it right away. 
 
-AFter the data was found, we cleaned it in such a fashion so that we were working with only a "returns" column for every ticker on every day from July 2019 to July 2020. We chose this data for two reasons: 
+After the data was found, we cleaned it in such a fashion so that we were working with only a "returns" column for every ticker on every day from July 2019 to July 2020. We chose this data for two reasons: 
   
   1. This is *a lot* of data already for a model to train on. over 900,000 individual percentages for this model to learn on. WE figured this was more than enough to create something that was accurate enough for our liking. 
   2. The data includes moments:
@@ -35,7 +35,7 @@ AFter the data was found, we cleaned it in such a fashion so that we were workin
     C) During the COVID Recovery
    This allows the model to learn from different types of "moments" in the stock market (stability, reduction, and growth).
 
-From here on out, we were able to create the model, which suprisingly enough, often-times can be the easy part (compared to data-aggregation).
+From here on out, we were able to create the model, which suprisingly enough, often-times can be the easy part (compared to data-aggregation). This was all done on AWS Sagemaker, a service provided by Amazon that allows you to work on Jupyter Notebooks on their servers. This provides access to their massive amounts of processing power which is useful for working on a model with this much data, as well as allows us to more easily collaborate on the code. Here is an example of what some of the code looks like: 
 
 ## Results
 
