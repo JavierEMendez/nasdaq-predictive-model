@@ -1,6 +1,6 @@
 # nasdaq-predictive-model
 
-![NASDAQ Image](/images/Nasdaq-copy.png)
+![NASDAQ Image](/Images/Nasdaq-copy.png)
 
 ## Purpose and Goal of this Project/Repository
 
