@@ -39,6 +39,8 @@ From here on out, we were able to create the model, which suprisingly enough, of
 
 ![Code Example](/Images/code-example.gif)
 
+## How it works & Application
+
 ## Results
 
 ## How to interpret the data
