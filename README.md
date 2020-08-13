@@ -28,7 +28,7 @@ As all models do (as we have found out), it all begins with finding quality data
 
 After the data was found, we cleaned it in such a fashion so that we were working with only a "returns" column for every ticker on every day from July 2019 to July 2020. We chose this data for two reasons: 
   
-  1. This is *a lot* of data already for a model to train on. over 900,000 individual percentages for this model to learn on. WE figured this was more than enough to create something that was accurate enough for our liking. 
+  1. This is *a lot* of data already for a model to train on. over 900,000 individual percentages for this model to learn on. We figured this was more than enough to create something that was accurate enough for our liking. 
   2. The data includes moments:
     A) Before COVID
     B) During the COVID Crash
