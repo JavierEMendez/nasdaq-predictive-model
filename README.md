@@ -1,5 +1,7 @@
 # Nasdaq Predictive Model
 
+### V0.1.0
+
 ![NASDAQ Image](/Images/Nasdaq-copy.jpg)
 
 ## Purpose and Goal of this Project/Repository
@@ -42,6 +44,8 @@ From here on out, we were able to create the model, which suprisingly enough, of
 Once we had the model created and running at a level that we liked it, we then go through the process of turning the model wihch is currently split up into multiple Jupyter Notebook cells into a variety of functions, each being a key aspect of the model. This is done so that we are able to connect it to SNS, the Amazon service we are going to be using to send the tickers via email to any users who wish to subscribe to the service the model provides. To get an idea of what this looks like, here is a chunk of the code in cells compared to what it looks like in a function:
 
 ![Code Example 2](/Images/transformation.PNG)
+
+With SNS, we can then add emails that wish to recieve the data and the messages with the tickers can be sent whenever the code is run (as of V0.1.0)
 
 ## How it works & Application
 
