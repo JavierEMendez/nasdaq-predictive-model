@@ -49,9 +49,18 @@ With SNS, we can then add emails that wish to recieve the data and the messages 
 
 ## How it works & Application
 
-## Results
+The model will do the analysis to create a 1-day forecast. With all the data points we fed into it, it "learned" ways to identify ticker movements and we can ask for it to return us the tickers that it believes will move in a positive direction the following day, and will return us the highest movers. 
 
-## How to interpret the data
+## Results
+The results of the accuracy of the model are below:
+
+Additionally, here is an example of what the email subscribers receive:
+
+## How this is useful for you
+
+There are a variety of ways you can trade with this knowledge, the two most common being:
+ 1. Momentum Trading (short-term)
+ 2. Options Trading (Momentum, short-term or long-term).
 
 ## Resources
 
