@@ -53,4 +53,4 @@ From here on out, we were able to create the model, which suprisingly enough, of
 
 [AWS Sagemaker Tutorial](https://www.youtube.com/watch?v=8Vj7OaR4DcA)
 
-[Random Forest Regression Article(https://towardsdatascience.com/random-forest-and-its-implementation-71824ced454)
+[Random Forest Regression Article](https://towardsdatascience.com/random-forest-and-its-implementation-71824ced454)
