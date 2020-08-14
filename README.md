@@ -39,6 +39,8 @@ From here on out, we were able to create the model, which suprisingly enough, of
 
 ![Code Example](/Images/code-example.gif)
 
+Once we had the model created and running at a level that we liked it, we then go through the process of turning the model wihch is currently split up into multiple Jupyter Notebook cells into a variety of functions, each being a key aspect of the model. This is done so that we are able to connect it to SNS, the Amazon service we are going to be using to send the tickers via email to any users who wish to subscribe to the service the model provides. To get an idea of what this looks like, here is a chunk of the code in cells compared to what it looks like in a function:
+
 ## How it works & Application
 
 ## Results
