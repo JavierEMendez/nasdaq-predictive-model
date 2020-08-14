@@ -52,3 +52,5 @@ From here on out, we were able to create the model, which suprisingly enough, of
 [Data Cleaning Tips and Tricks in Python](https://towardsdatascience.com/data-cleaning-in-python-the-ultimate-guide-2020-c63b88bf0a0d?gi=dd7bd10c80c6)
 
 [AWS Sagemaker Tutorial](https://www.youtube.com/watch?v=8Vj7OaR4DcA)
+
+[Random Forest Regression Article(https://towardsdatascience.com/random-forest-and-its-implementation-71824ced454)
