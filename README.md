@@ -68,8 +68,8 @@ Additionally, here is an example of what the email subscribers receive:
 ## How this is useful for you
 
 There are a variety of ways you can trade with this knowledge, the two most common being:
- 1. Momentum Trading (short-term)
- 2. Options Trading (Momentum, short-term or long-term).
+ 1. Momentum Trading (short-term): Day-by-day trading of stocks in the NASDAQ Composite. This is useful for day-traders who are trying to ride waves or identify trends quickly. Anyone looking to beat the market in the short-term can use this model to generate a list of tickers to keep on eye on for the following trading day.  
+ 2. Options Trading (Momentum, short-term or long-term): Quick gains with much higher risk. This is useful for momentum trading stock options intra-day.
 
 ## Resources
 
