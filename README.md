@@ -56,7 +56,7 @@ The results of the accuracy of the model are below:
 ![Model Accuracy](/Images/model-accuracy.png)
 
 Additionally, here is an example of what the email subscribers receive:
-![Email](/Images/email.png)
+![Email](/Images/email.png =100x20)
 
 ## How this is useful for you
 
