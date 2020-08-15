@@ -29,7 +29,7 @@ This predictive random forest model will focus on NASDAQ companies, and will use
 - Excel
 - Python
 - Pandas (Python Library)
-- Skilearn
+- Sklearn
 - VS Code
 - AWS Sagemaker
 - AWS Lambda
