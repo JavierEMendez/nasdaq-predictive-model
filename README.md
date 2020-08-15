@@ -22,7 +22,11 @@ This predictive random forest model will focus on NASDAQ companies, and will use
 - Excel
 - Python
 - Pandas (Python Library)
+- VS Code
 - AWS Sagemaker
+- AWS Lambda
+- AWS S3
+- AWS CloudWatch
 
 ## Process of Creating the Model 
 
@@ -47,9 +51,11 @@ Once we had the model created and running at a level that we liked it, we then g
 
 With SNS, we can then add emails that wish to recieve the data and the messages with the tickers can be sent whenever the code is run (as of V0.1.0)
 
-## How it works & Application
+## Deploying the Model
 
 The model will do the analysis to create a 1-day forecast. With all the data points we fed into it, it "learned" ways to identify ticker movements and we can ask for it to return us the tickers that it believes will move in a positive direction the following day, and will return us the highest movers. 
+
+For the model to be useful, it needs to be deployable. For this we opted to use AWS lambda to be able to execute the model once a day. We ran into a potential issue with our file sizes, in particular the data and imported libraries. To solve this we uploaded the data separately on S3, and then we used CloudWatch to configure the daily emails. After debugging, we were able to get it deployed and the email could be requested.
 
 ## Results
 The results of the accuracy of the model are below:
