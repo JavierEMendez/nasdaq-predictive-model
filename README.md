@@ -53,8 +53,10 @@ The model will do the analysis to create a 1-day forecast. With all the data poi
 
 ## Results
 The results of the accuracy of the model are below:
+![Model Accuracy](/Images/model-accuracy.png)
 
 Additionally, here is an example of what the email subscribers receive:
+![Email](/Images/email.pngs=100)
 
 ## How this is useful for you
 
