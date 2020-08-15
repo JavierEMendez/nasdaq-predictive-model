@@ -20,7 +20,7 @@ This predictive random forest model will focus on NASDAQ companies, and will use
 ### Contents of Repository
 
 1. handler — Contains the necessary libraries that are required for the model to operate in AWS infrastructure, as well as an older version of the model (handler.py) which runs on a local machine but not AWS.
-2. docker_deploy — Contains the most up-to-date model that was executed on AWS Lambda (handler.py), as well as the file necessary for deployment on AWS (Makefile).
+2. docker_deploy — Contains the most up-to-date model and necessary libraries that was executed on AWS Lambda (handler.zip), as well as the file necessary for deployment on AWS (Makefile).
 3. nasdaq-historical-data — Contains historical data for the NASDAQ that the model is training and testing on, both as individual days and aggregated + cleaned. 
 4. Images — Images used in the repository.
 
@@ -29,6 +29,7 @@ This predictive random forest model will focus on NASDAQ companies, and will use
 - Excel
 - Python
 - Pandas (Python Library)
+- Skilearn
 - VS Code
 - AWS Sagemaker
 - AWS Lambda
