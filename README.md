@@ -80,3 +80,7 @@ There are a variety of ways you can trade with this knowledge, the two most comm
 [AWS Sagemaker Tutorial](https://www.youtube.com/watch?v=8Vj7OaR4DcA)
 
 [Random Forest Regression Article](https://towardsdatascience.com/random-forest-and-its-implementation-71824ced454)
+
+[AWS Lambda Best Practices](https://docs.aws.amazon.com/lambda/latest/dg/best-practices.html)
+
+[Know Ryan](https://www.linkedin.com/in/ryan-bacastow/)
